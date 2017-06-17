@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <title>The Zombie Survival Guide: Complete Protection from the Living Dead</title>
+  <auhor>Max Brooks</author>
+  <pubDate>September 16, 2003</pubDate>
+  <awards>
+    <award>
+      <name>New York Times Best Seller</name>
+      <awardDate>October 24, 2003</awardDate>
+    </award>
+    <award>
+      <name>Best Non-Fiction</name>
+      <awardDate>October 3, 2003</awardDate>
+    </award>
+  </awards>
+</book>
+
